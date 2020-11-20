@@ -1,3 +1,21 @@
-p {
-    color: blue
+#bodystyle {
+    margin: 0%;
+    
+}
+.container {
+    width: 100%;
+    height: 25vh;
+  
+}
+.b1{
+    background: lightblue;
+}
+.b2{
+    background: salmon;
+}
+.b3{
+    background: palegreen;
+}
+.b4{
+    background: purple;
 }
