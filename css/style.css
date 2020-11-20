@@ -1,3 +1,14 @@
-p {
-    color: blue
+#bodystyle {
+    margin: 0%;
+    
 }
+.maincontainer {
+    width: 100%;
+    background: lightslategray;
+    display: grid;
+    grid-template-rows: 15vh 25vh 30vh 30vh;
+}
+.b1{background: lightblue;}
+.b2{background: salmon;}
+.b3{background: palegreen;}
+.b4{background: purple;}
