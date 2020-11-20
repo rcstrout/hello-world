@@ -1,7 +1,8 @@
 #bodystyle {
     margin: 0%;
-    
 }
+    
+
 .container {
     width: 100%;
     height: 100%;
@@ -10,15 +11,71 @@
     align-items: center;
 }
 
-.sub-container {
+.headercontainer {
     width: 400px;
-    height: 300px;
+    height: 25vh;
     background-color: green;
+    margin: 10px;
+    opacity: 0;
+}
+
+
+.sub-container1 {
+    width: 400px;
+    height: 25vh;
+    background-color: pink;
+    margin: 0;
+    flex-grow: 1;
+}
+
+.sub-container2 {
+    width: 400px;
+    height: 25vh;
+    background-color: green;
+    margin: 0;
+    flex-grow: 1;
+}
+
+.sub-container3 {
+    width: 250px;
+    height: 25vh;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sub-container4 {
+    width: 250px;
+    height: 25vh;
+    background-color: violet;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sub-container5 {
+    width: 250px;
+    height: 25vh;
+    background-color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sub-container6 {
+    width: 250px;
+    height: 25vh;
+    background-color: gray;
+    margin: 10px;
+}
+.sub-container7 {
+    width: 250px;
+    height: 25vh;
+    background-color: gray;
     margin: 10px;
 }
 
 .b1{
-    background: lightblue;
+    background: lightblue
+
 }
 .b2{
     background: salmon;
